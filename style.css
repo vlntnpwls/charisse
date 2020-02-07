@@ -1,0 +1,19 @@
+html { 
+	border-top: 10px solid FF03AF;
+	min-height:100%;
+	margin: 0;
+	padding:0;}
+.body {
+	overflow: hidden}
+.bild {
+	width: 398px;
+	height: 210px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+}
+
+.test {
+	font-family: georgia;
+	font-size: 34px;
+}
